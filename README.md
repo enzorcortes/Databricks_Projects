@@ -38,8 +38,6 @@ This project enables **self-service analytics** for movie streaming data, allowi
 ✅ **Lightweight Semantic Layer**: SQL views for reusable business logic  
 ✅ **Visual Accessibility**: Check marks (✓/✗) for platform availability
 
----
-
 ### Agent Architecture:
 
 ```mermaid
