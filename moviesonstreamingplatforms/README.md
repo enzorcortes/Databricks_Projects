@@ -169,6 +169,8 @@ Top 20 movies by Rotten Tomatoes score for dashboard table widget.
 
 **Dashboard Name**: [Movies on Streaming Platforms](#)
 
+<img src="moviesstreamingdashboard.png" width="100%">
+
 ### Widgets
 
 | Widget | Type | Purpose | Filterable |
