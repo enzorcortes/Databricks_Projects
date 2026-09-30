@@ -12,6 +12,34 @@ Welcome! Here you will find insightful and creative ways to interpret data using
 
 🧞‍♂️🔗 [Movies on Streaming Platform, Genie AI Agent](https://dbc-4b6fd519-190f.cloud.databricks.com/genie/rooms/01f1bb9219541440ae851b68b9eeacd6?o=7474655006789075)
 
+### Use Case
+
+This project enables **self-service analytics** for movie streaming data, allowing business users and analysts to:
+- 📊 Explore 9,500+ movies across Netflix, Hulu, Prime Video, and Disney+
+- 🤖 Ask natural language questions without writing SQL
+- 📈 Monitor key metrics: platform coverage, ratings, release trends, and age distributions
+- 🔍 Filter and drill down into specific platforms or time periods
+
+**Target Audience**: Data analysts, business users, and anyone learning Databricks AI/BI capabilities.
+
+### Dataset
+
+- **Source**: CSV file containing movie metadata from major streaming platforms
+- **Size**: 9,515 movies
+- **Platforms**: Netflix, Hulu, Prime Video, Disney+
+- **Attributes**: Title, release year, age rating, Rotten Tomatoes score, platform availability
+
+### Key Features
+
+✅ **Unity Catalog Governance**: Centralized metadata, RBAC-ready schema  
+✅ **AI/BI Dashboard**: 8 interactive widgets with platform filtering  
+✅ **Genie Space**: Natural language Q&A over 5 tables/views  
+✅ **Serverless Compute**: Zero cluster management on Free Edition  
+✅ **Lightweight Semantic Layer**: SQL views for reusable business logic  
+✅ **Visual Accessibility**: Check marks (✓/✗) for platform availability
+
+---
+
 ### Agent Architecture:
 
 ```mermaid
