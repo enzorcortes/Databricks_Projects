@@ -8,9 +8,9 @@ Welcome! Here you will find insightful and creative ways to interpret data using
 
 📁🔗 [Movies on Streaming Platforms, project files](https://github.com/enzorcortes/Databricks_Projects/tree/main/moviesonstreamingplatforms)
 
-🎛️🔗 [Movies on Streaming Platforms, Genie Space/DASHBOARD](https://dbc-4b6fd519-190f.cloud.databricks.com/dashboardsv3/01f1bb921924137d9361d64edd089231/published?o=7474655006789075)
+🎛️🔗 [Movies on Streaming Platforms, AI/BI Dashboard](https://dbc-4b6fd519-190f.cloud.databricks.com/dashboardsv3/01f1bb921924137d9361d64edd089231/published?o=7474655006789075)
 
-🧞‍♂️🔗 [Movies on Streaming Platform, Genie AI Agent](https://dbc-4b6fd519-190f.cloud.databricks.com/genie/rooms/01f1bb9219541440ae851b68b9eeacd6?o=7474655006789075)
+🧞‍♂️🔗 [Movies on Streaming Platform, Genie Space (AI Agent)](https://dbc-4b6fd519-190f.cloud.databricks.com/genie/rooms/01f1bb9219541440ae851b68b9eeacd6?o=7474655006789075)
 
 ### Use Case
 
