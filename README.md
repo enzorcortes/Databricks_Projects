@@ -1,2 +1,9 @@
-# Databricks_Projects
-Utilizing the power of Databricks to develop deep, meaningful, and visually striking data that can communicate with other software and databases seamlessly. The projects are meant to showcase Python, SQL, JSON, and security knowledge across databases and how to leverage Genie AI to make better sense of data.
+# 🧱 Databricks Projects
+
+Welcome! Here you will find insightful and creative ways to interpret data using a powerful AI-powered software used in many data analytical environments around the workforce known as 🧱 [Databricks](https://www.databricks.com)). 
+
+# Projects
+
+## 🎬 Movies on Streaming Platforms
+
+📁🔗 [Movies on Streaming Platforms, project files]()
